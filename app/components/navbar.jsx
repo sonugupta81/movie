@@ -7,7 +7,6 @@ import {
   DialogPanel,
   DialogTitle,
 } from "@headlessui/react";
-import { ExclamationTriangleIcon } from "@heroicons/react/24/outline";
 import { Search, SearchCodeIcon } from "lucide-react";
 import Link from "next/link";
 
